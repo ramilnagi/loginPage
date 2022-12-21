@@ -93,6 +93,9 @@ a {
     width: 150px;
     height: 40px;
     border-radius: 45px;
+    border: none;
+    color: var(--lftbgc);
+    cursor: pointer;
 }
 .about{
     width: 400px;
